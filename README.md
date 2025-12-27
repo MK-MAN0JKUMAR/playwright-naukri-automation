@@ -72,7 +72,7 @@ Example (not committed):
 			 - npx playwright test ProfileUpdate.spec.js  [Run specific test in all browser]
 			 - npx playwright test ProfileUpdate.spec.js --project=chromium [Run specific test in chrome browser]
 			 - npx playwright test ProfileUpdate.spec.js --project=chromium --headed [Run specific test in chrome browser with visible] 
-			 - npx playwright test ProfileUpdate.spec.js --project=chromium --headed -- debug [Run specific test in chrome browser with visible][debug mode]
+			 - npx playwright test ProfileUpdate.spec.js --project=chromium --headed -- debug [Run specific test in chrome browser with visible][debug mode] 
 
 --------------------------------------------------------------------------------------------
 👤 Author
