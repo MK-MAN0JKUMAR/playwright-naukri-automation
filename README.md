@@ -4,6 +4,14 @@
 This project is a Playwright-based end-to-end automation framework built using JavaScript.
 It demonstrates how to automate a real-world web workflow with clean structure, conditional logic, and CI-ready design.
 
+🛠 Tech Stack
+ - Automation Tool: Playwright
+ - Language: JavaScript
+ - Test Runner: Playwright Test
+ - Package Manager: npm
+ - Version Control: Git
+ - CI (Optional): Jenkins
+
 The automation covers:
   > Login flow
   > Profile navigation
@@ -23,13 +31,6 @@ No real credentials are stored or committed.
  - Prepare automation for CI/CD execution
  - Follow security best practices (no hardcoded secrets)
 
-🛠 Tech Stack
- - Automation Tool: Playwright
- - Language: JavaScript
- - Test Runner: Playwright Test
- - Package Manager: npm
- - Version Control: Git
- - CI (Optional): Jenkins
 
 📁 Project Structure
 update_profile_playwright/
